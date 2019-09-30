@@ -1,3 +1,5 @@
+**IMPORTANT! This fork is not currently being maintained. For latest version, issues or pull requests, please check [this fork](https://github.com/visola/go-proxy).**
+
 ## go-proxy
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Everbridge/go-proxy)](https://goreportcard.com/report/github.com/Everbridge/go-proxy)
