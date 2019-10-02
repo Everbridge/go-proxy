@@ -3,7 +3,7 @@ package proxy
 import (
 	"fmt"
 
-	"github.com/visola/go-proxy/configuration"
+	"github.com/Everbridge/go-proxy/configuration"
 )
 
 var isSSL = false

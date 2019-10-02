@@ -8,11 +8,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/visola/go-proxy/configuration"
-	myhttp "github.com/visola/go-proxy/http"
-	"github.com/visola/go-proxy/mapping"
-	"github.com/visola/go-proxy/statistics"
-	"github.com/visola/go-proxy/variables"
+	"github.com/Everbridge/go-proxy/configuration"
+	myhttp "github.com/Everbridge/go-proxy/http"
+	"github.com/Everbridge/go-proxy/mapping"
+	"github.com/Everbridge/go-proxy/statistics"
+	"github.com/Everbridge/go-proxy/variables"
 )
 
 // StartProxyServer starts the proxy server
