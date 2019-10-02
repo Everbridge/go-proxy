@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set -ex
 
 # Code Climate tool requires the file to be named c.out and to be in the project root
 COVERAGE_OUTPUT=c.out
