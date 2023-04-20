@@ -33,6 +33,6 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "less": "^3.8.1",
-    "parcel-bundler": "^1.10.3"
+    "parcel-bundler": "^1.12.5"
   }
 }
