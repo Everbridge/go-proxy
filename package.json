@@ -13,7 +13,7 @@
   "author": "Vinicius Isola",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.2",
     "mobx": "^3.6.2",
     "mobx-react": "^4.4.3",
     "moment": "^2.22.2",
